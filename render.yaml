@@ -22,8 +22,7 @@ services:
 
 databases:
   - name: civicfix-db
-    databaseName: civicfix
-    user: civicfix
     plan: free
     region: singapore
     postgresMajorVersion: "16"
+
